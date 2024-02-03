@@ -1,3 +1,3 @@
-# kottai
+# Family Website
 
-This repository contains files for the kottai family website.  
+This repository contains files for the Kottai family website.  
